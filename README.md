@@ -33,8 +33,7 @@ chmod +x /usr/local/bin/sombrero
 # Render a markdown file
 python sombrero.py example.md
 
-# Pipe markdown content
-cat example.md | python sombrero.py
+
 ```
 
 ## Requirements
